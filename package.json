@@ -1,0 +1,25 @@
+{
+    "name": "jscs-json-reporter",
+    "version": "0.0.1",
+    "description": "Saves JSCS results to a JSON file",
+    "main": "jscs-json-reporter.js",
+    "author": "Audrius Jakumavicius",
+    "license": "MIT",
+    "keywords": [
+        "jscs",
+        "reporter",
+        "json",
+        "jscs-json",
+        "jscs-json-reporter",
+        "grunt-jscs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/aj-dev/jscs-json-reporter"
+    },
+    "bugs": {
+        "url": "https://github.com/aj-dev/jscs-json-reporter/issues"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+}
