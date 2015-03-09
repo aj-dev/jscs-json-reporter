@@ -39,7 +39,7 @@ jscs: {
 ## Example
 ![alt text](https://raw.githubusercontent.com/aj-dev/jscs-json-reporter/master/jscs-json-reporter.png 'JSCS JSON Reporter example')
 
-`explainedError` key contains a preformatted string with detailed error info. When used inside HTML `<pre></pre>` tags it is displayed like this:
+`"explainedError"` key contains a preformatted string with detailed error info. When used inside HTML `<pre></pre>` tags it is displayed like this:
 ![alt text](https://raw.githubusercontent.com/aj-dev/jscs-json-reporter/master/explained-error-preformatted.png 'Explained error property preformatted example')
 
 ## Important!
