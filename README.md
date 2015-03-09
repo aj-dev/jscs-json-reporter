@@ -16,7 +16,7 @@ Install using npm:
 #### When using with [node-jscs](https://github.com/mdevils/node-jscs)
 Set the path to `jscs-json-reporter`. Command line example:
 
-`jscs . --reporter node_modules/jscs-json-reporter/jscs-json-reporter.js`
+`jscs app.js --reporter node_modules/jscs-json-reporter/jscs-json-reporter.js`
 
 Report will be written to `jscs-report.json` in current working directory.
 
