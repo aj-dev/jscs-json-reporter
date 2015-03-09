@@ -39,6 +39,9 @@ jscs: {
 ## Example
 ![alt text](https://raw.githubusercontent.com/aj-dev/jscs-json-reporter/master/jscs-json-reporter.png 'JSCS JSON Reporter example')
 
+`explainedError` key contains a preformatted string with detailed error info. When used inside HTML `<pre></pre>` tags it is displayed like this:
+![alt text](https://raw.githubusercontent.com/aj-dev/jscs-json-reporter/master/explained-error-preformatted.png 'Explained error property preformatted example')
+
 ## Important!
 Generated JSON file size might be very large depending on the number of errors. For instance, a file containing 4500 errors is around 2.85 MB.
 
