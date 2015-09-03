@@ -90,3 +90,5 @@ module.exports = function (errorsCollection) {
 
     reporter.report();
 };
+
+module.exports.path = __dirname;
