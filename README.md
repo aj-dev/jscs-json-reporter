@@ -49,4 +49,4 @@ When used inside HTML `<pre></pre>` tags it is displayed like this:
 Generated JSON file size might be very large depending on the number of errors. For instance, a file containing 4500 errors is around 2.85 MB.
 
 ## License
-Licensed under the MIT license. Copyright (c) 2015 Audrius Jakumavicius
+Licensed under the MIT license. Copyright (c) 2015 - 2016 Audrius Jakumavicius
